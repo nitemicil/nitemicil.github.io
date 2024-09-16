@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nitemicil.github.io/sitemap.html.gz
+Sitemap: https://nitemicil.github.io/app/sitemap.html.gz
+Sitemap: https://nitemicil.github.io/assets/sitemap.html.gz
+Sitemap: https://nitemicil.github.io/css/sitemap.html.gz
+Sitemap: https://nitemicil.github.io/includes/sitemap.html.gz
+Sitemap: https://nitemicil.github.io/item/sitemap.html.gz
+Sitemap: https://nitemicil.github.io/src/sitemap.html.gz
